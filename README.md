@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Sachin!
 
-## 💻 About Me
-
 I'm a **Web Developer** with a passion for backend development, automation, and scripting. I specialize in creating scalable applications and exploring modern software architectures. I've been using Linux as my daily driver since 2019, and I enjoy Linux scripting and automation.
 
 ## 🚀 Skills & Technologies
